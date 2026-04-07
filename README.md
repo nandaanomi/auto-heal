@@ -4,7 +4,7 @@ Berikut versi yang sudah diperbaiki format Markdown-nya saja tanpa mengubah isi:
 
 Auto-Heal adalah tool untuk memperbaiki typo pada kode Python secara otomatis.
 
-![Preview](preview.png)
+![Preview](./Screenshot_20260407-154255.jpg)
 
 ## Instalasi
 
