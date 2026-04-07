@@ -1,5 +1,4 @@
 #!/bin/bash
-mkdir -p ~/.autoheal
-cp autoheal /usr/local/bin/
-chmod +x /usr/local/bin/autoheal
+chmod +x autoheal
+sudo cp autoheal /usr/local/bin/
 echo "Install selesai. Ketik 'autoheal' untuk jalanin"
